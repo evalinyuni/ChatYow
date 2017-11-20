@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353826045212",
+    "firebase_url": "https://chatyow.firebaseio.com",
+    "project_id": "chatyow",
+    "storage_bucket": "chatyow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353826045212:android:94cfa26696d50f41",
+        "android_client_info": {
+          "package_name": "com.example.yunievalin.chatyow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353826045212-7tk66qtipmt2eoahc7um0vfuqkbid592.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDasIXNBjQVLeLLNCLPEFQwFCL9wF7KfIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
